@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ProyectFinalProgMov</string>
-    <string name="facebook_app_id">925297931773627</string>
-    <string name="fb_login_protocol_scheme">fb925297931773627</string>
-    <string name="facebook_client_token">800b95ea1c0f924cb9ed06c0a4d922a6</string>
+    
 </resources>
