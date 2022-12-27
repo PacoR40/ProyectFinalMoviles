@@ -88,8 +88,8 @@ class Authentication{
         "Accept": "application/json"
       },
       body: jsonEncode(GitHubLoginRequest(
-        clientId: "e3c3c6cc6f08995493cd",
-        clientSecret: "5de8121d91b90d4ad186ee21c4aba732bd735606",
+        clientId: "",
+        clientSecret: "",
         code: code
       )),
     );
