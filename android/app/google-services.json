@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "871044291774",
-    "project_id": "proyectfinalprogmov",
-    "storage_bucket": "proyectfinalprogmov.appspot.com"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:871044291774:android:6a3c31fb6611e2946152ef",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.example.practica7"
+          "package_name": ""
         }
       },
       "oauth_client": [
         {
-          "client_id": "871044291774-vak1d3dro8jtoqcf9an1ecem3ra18nrc.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC1rMvyaNVMQula53uve4BrQvV6DW0WXEs"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "871044291774-vak1d3dro8jtoqcf9an1ecem3ra18nrc.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
